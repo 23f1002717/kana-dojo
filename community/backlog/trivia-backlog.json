@@ -1172,8 +1172,10 @@
       "Shodo"
     ],
     "correctIndex": 0,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "Kubudak90",
+    "completedPR": 8084
   },
   {
     "id": 85,
